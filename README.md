@@ -7,10 +7,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## About
-Este proyecto se centra en la implementación de estrategias de persistencia, utilizando un modelo de espíritus y demonios, sobre los cuales se debe persistir y gestionar información específica.
+This project focuses on the implementation of persistence strategies, using a model of spirits and demons, on which specific information must be persisted and managed.
 
-## Tecnologías
-Se utiliza Java para la implementación de la lógica del sistema, apoyado por tecnologías como Hibernate y Spring para la persistencia de datos. Los datos se almacenan en MySQL, Neo4j, y MongoDB para distintos fines.
+## Technologies
+Java is used for the system logic implementation, supported by technologies like Hibernate and Spring for data persistence. The data is stored in MySQL, Neo4j, and MongoDB for different purposes.
 
 ## More
-El proyecto permite explorar las capacidades de múltiples bases de datos y las mejores prácticas de persistencia en sistemas complejos. Se trataron diferentes tipos de bases para poder comprender las diferencias e importancias de estas.
+The project allows exploration of the capabilities of multiple databases and best practices for persistence in complex systems. Different types of databases were handled to understand their differences and importance.
